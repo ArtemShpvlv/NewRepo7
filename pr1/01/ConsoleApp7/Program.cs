@@ -12,7 +12,7 @@ namespace PR1_1
     public Person(string _firstName, string _lastName, int _age , Genders _gender)
     {
       firstName = _firstName;
-      lastName = _lastName; age = _age , gender = _gender;
+      lastName = _lastName; age = _age; gender = _gender;
     }
     public override string ToString()
     {
